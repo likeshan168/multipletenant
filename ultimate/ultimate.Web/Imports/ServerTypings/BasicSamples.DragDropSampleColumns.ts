@@ -1,0 +1,3 @@
+﻿namespace ultimate.BasicSamples {
+}
+
